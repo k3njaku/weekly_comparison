@@ -96,3 +96,13 @@ h1.title {
     margin-top: 20px;
     color: #003366;
 }
+
+.table-container-large {
+    width: 90%;
+    height: 500px; /* Increase the height as needed */
+    overflow-x: auto;
+    overflow-y: auto;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
